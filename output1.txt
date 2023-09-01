@@ -1,0 +1,27 @@
+
+         1      1.79500 micro sec 	      6.09000 micro sec 	     10.05300 micro sec 	
+       200     11.11300 micro sec 	     39.23700 micro sec 	     81.25300 micro sec 	
+       400     22.30100 micro sec 	     74.80200 micro sec 	    166.34800 micro sec 	
+       600     31.51400 micro sec 	     98.77400 micro sec 	    202.26700 micro sec 	
+       800     40.40100 micro sec 	     39.73600 micro sec 	     65.73500 micro sec 	
+      1000     53.53400 micro sec 	     18.17300 micro sec 	     57.90300 micro sec 	
+      1200     62.80500 micro sec 	     20.59500 micro sec 	     56.33500 micro sec 	
+      1400     72.12400 micro sec 	     24.87300 micro sec 	     76.08000 micro sec 	
+      1600    102.92400 micro sec 	     31.12500 micro sec 	     78.01100 micro sec 	
+      1800     92.75100 micro sec 	     32.44600 micro sec 	     73.40400 micro sec 	
+      2000     99.04600 micro sec 	     18.12200 micro sec 	     95.98700 micro sec 	
+      2200    112.36900 micro sec 	     13.26300 micro sec 	     25.73900 micro sec 	
+      2400    124.74800 micro sec 	     14.64800 micro sec 	     15.95700 micro sec 	
+      2600    143.20200 micro sec 	     16.92300 micro sec 	     17.26900 micro sec 	
+      2800    156.45300 micro sec 	     18.70500 micro sec 	     19.84300 micro sec 	
+      3000    176.91100 micro sec 	     20.79400 micro sec 	     21.30100 micro sec 	
+      3200    190.04300 micro sec 	     22.02500 micro sec 	     23.08900 micro sec 	
+      3400    198.15400 micro sec 	     25.36800 micro sec 	     25.86700 micro sec 	
+      3600    232.25000 micro sec 	     27.67600 micro sec 	     27.51000 micro sec 	
+      3800    246.66500 micro sec 	     29.39500 micro sec 	     28.45800 micro sec 	
+      4000    260.52700 micro sec 	     0.00000 Can't compute	     0.00000 Can't compute	
+      4200    275.97900 micro sec 	     0.00000 Can't compute	     0.00000 Can't compute	
+      4400     58.28900 micro sec 	     0.00000 Can't compute	     0.00000 Can't compute	
+      4600     61.32400 micro sec 	     0.00000 Can't compute	     0.00000 Can't compute	
+      4800     62.04900 micro sec 	     0.00000 Can't compute	     0.00000 Can't compute	
+      5000     63.40200 micro sec 	     0.00000 Can't compute	     0.00000 Can't compute	
