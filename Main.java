@@ -4,7 +4,7 @@ import VISITOR.ImplementationVisitor;
 
 class Main{
     public static void main(String args[]){
-        // System.out.println("\n\n\t\t\t NAIVE \t\t\t OO \t\t\t VISITOR");
+        System.out.println("\n\n\t\t\t NAIVE \t\t\t OO \t\t\t VISITOR");
         for(int n=1;n<=5000;n+=200){
             System.out.printf("\n%10d",n);
             
